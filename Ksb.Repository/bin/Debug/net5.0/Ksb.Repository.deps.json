@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ksb.Repository/1.0.0": {
+        "dependencies": {
+          "Ksb.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Ksb.Repository.dll": {}
+        }
+      },
+      "Ksb.Domain/1.0.0": {
+        "runtime": {
+          "Ksb.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ksb.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ksb.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
